@@ -38,18 +38,23 @@ Content includes
 - [ ] Add the labels for all the actions that need to be completed
 
 #### Prepare
-- [ ] Do the following actions unless strike though indicated above by going to the wiki (1.06) and following the instructions
-   - [ ] Cards to copy
+Do the following actions unless strike though indicated above by going to the wiki (1.06) and following the instructions
+- [ ] Cards to copy
+- [ ] Remove the `prepare` label and add the `migrate` label
 
-#### Migration
-   - [ ] Boards Migration
-      - [ ] Multiple Boards Migration
-      - [ ] Single Board Migration
+#### Migrate
+Do the following actions unless strike though indicated above by going to the wiki (1.06) and following the instructions
+- [ ] Boards Migration
+   - [ ] Multiple Boards Migration
+   - [ ] Single Board Migration
+- [ ] Remove the `migrate` label and add the `cleanup` label
 
 #### Cleanup
+Do the following actions by going to the wiki (1.06) and following the instructions
    - [ ] Issues not on board
    - [ ] Customize (optional)
    - [ ] Close out Migration
+
 
 ### Resources/Instructions
 
