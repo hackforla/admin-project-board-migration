@@ -1,7 +1,7 @@
 ---
 name: Migrate Repo Project Board(s)
 about: This template walks you through the steps to Migrate the repos project boards
-title: 'Title: [PROJECT INITIALS]: [REPO]: [Other]'
+title: "[PROJECT INITIALS]: [REPO]: [Other]"
 labels: 'A: missing, draft, project: missing, S: missing'
 assignees: ''
 
