@@ -21,9 +21,9 @@ Content includes
 #### Add initial content to Resources section
 - [ ] Add Project Initials (1.01)
 - [ ] Add the link to repo (1.02)
-- [ ] Add a link to project board(s) classic open (1.03)
-- [ ] Add a link to project board(s) classic closed (1.04)
-- [ ] Add a link to project board new if it already exists (1.05)
+- [ ] Add a link to project board(s) classic open (1.03), or write none, if there aren't any
+- [ ] Add a link to project board(s) classic closed (1.04), or write none, if there aren't any
+- [ ] Add a link to project board new if it already exists (1.05), or write none, if there isin't one linked
 - [ ] Add the label for the project name (e.g., `Access the Data`) and remove the `project: missing label`
 - [ ] Add the Evaluate label and remove the draft label
 - [ ] Add the milestone `Migration`
@@ -36,6 +36,10 @@ Content includes
    - Single Board Migration *
    - Issues not on board *
 - [ ] Add the labels for all the actions that need to be completed
+- [ ] Remove the `evaluate` label
+- [ ] Add the next label
+   - [ ] If the Cards to copy has been strike-through, add the `migrate` label and check off/skip the Prepare section 
+   - [ ] If the Cards to copy has not been strike-through, add the `prepare` label 
 
 #### Prepare
 Do the following actions unless strike though indicated above by going to the wiki (1.06) and following the instructions
