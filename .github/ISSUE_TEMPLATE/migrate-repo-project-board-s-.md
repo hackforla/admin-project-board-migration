@@ -30,7 +30,7 @@ Content includes
 - [ ] Delete this section
 
 #### Evaluate
-- [ ] Add strike-through to actions * that do not need to be taken in this section (see Resource 1.03 for more detail)
+- [ ] Add strike-through to actions * that do not need to be taken in this section (see Resource 1.06 for more detail)
    - Cards to copy *
    - Multiple Boards Migration *
    - Single Board Migration *
